@@ -1,3 +1,5 @@
+# Fake News Detection
+
 In this Project, I trained a Bidirectional Neural Network and LSTM based deep learning model to detect fake news from a given news corpus.
 
 I walk through following steps:
