@@ -30,3 +30,4 @@ For deploying our model on web (local server), we have used following resources:
 3. Pickle - To serialize and deserialize objects in Python.
 4. HTML & CSS - For front-end.
 
+![Picture 1](https://github.com/Nikjin/Fake_News_Detection/blob/main/News%20Input.png)
